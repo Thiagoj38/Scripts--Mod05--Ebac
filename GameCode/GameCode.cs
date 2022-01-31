@@ -23,6 +23,7 @@ public class GameCode : MonoBehaviour
     private void Awake()
     {        
         Debug.Log("Press A to shoot");
+        Debug.Log("Teste Git");
         
     }
 
